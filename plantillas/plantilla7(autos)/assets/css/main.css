@@ -2554,3 +2554,6 @@ input, select, textarea {
 	.whatsapp:hover{
 		transform: scale(1.1);
 	}
+	.title{
+		text-align: center;
+	}
