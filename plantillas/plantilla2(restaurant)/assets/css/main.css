@@ -3416,8 +3416,8 @@ input, select, textarea {
 		}
 		.whatsapp img{
 			z-index: 102;
-			width: 10px;
-			height: 10px;
+			width: 60px;
+			height: 60px;
 		
 			object-fit: cover;
 			transition: .2s linear;
