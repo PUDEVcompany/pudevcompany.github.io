@@ -2530,7 +2530,7 @@ input, select, textarea {
 			}
 
 	}
-.whatsapp{
+	.whatsapp{
 		position: fixed;
 		right: 5px;
 		display: flex;
