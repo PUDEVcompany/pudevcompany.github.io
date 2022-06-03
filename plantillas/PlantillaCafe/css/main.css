@@ -2173,7 +2173,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .section-gap {
-  padding: 120px 0;
+  padding: 130px 0;
 }
 
 .section-title {
@@ -2410,6 +2410,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .menu-area {
   background: url(../img/menu-bg.jpg) center;
   background-size: cover;
+  margin-bottom: 1px
 }
 
 .single-menu {
@@ -2524,7 +2525,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .footer-area h6 {
   color: #fff;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   font-size: 18px;
   font-weight: 600;
 }
@@ -2534,7 +2535,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-social a {
-  padding-right: 25px;
+  margin-right: 25px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2546,6 +2547,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-social i {
+  margin-bottom: 25px;
   color: #cccccc;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -2757,7 +2759,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   overflow: hidden;
   flex-wrap: wrap;
   transition: .2s linear;
-
 }
 .whatsapp img{
   z-index: 102;
@@ -2769,4 +2770,24 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .whatsapp:hover{
   transform: scale(1.1);
+}
+.quienes-somos h4{
+  font-size: 21px ;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+.quienes-somos p{
+  text-align: center;
+  font-size: 16px;
+}
+.ubicacion h4{
+  font-size: 21px;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+.ubicacion p{
+  text-align: center;
+  font-size: 16px;
 }
