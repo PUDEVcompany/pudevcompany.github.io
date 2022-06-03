@@ -2274,8 +2274,9 @@ button,
   #menu > ul > li:first-child {
     border-top: 0;
     margin-top: 0;
-    padding-top: 0; }
-  .whatsapp{
+    padding-top: 0; 
+}
+.whatsapp{
       position: fixed;
       right: 5px;
       display: flex;
