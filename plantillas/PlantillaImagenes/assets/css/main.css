@@ -819,27 +819,27 @@ input, select, textarea {
 				}
 
 		}
-.whatsapp{
-		position: fixed;
-		right: 5px;
-		display: flex;
-		bottom: 5px;
-		z-index: 102;
-		cursor: pointer;
-		gap: 15px;
-		overflow: hidden;
-		flex-wrap: wrap;
-		transition: .2s linear;
-	
-	}
-	.whatsapp img{
-		z-index: 102;
-		width: 60px;
-		height: 60px;
-	
-		object-fit: cover;
-		transition: .2s linear;
-	}
-	.whatsapp:hover{
-		transform: scale(1.1);
-	}
+		.whatsapp{
+			position: fixed;
+			left: 5px;
+			display: flex;
+			bottom: 5px;
+			z-index: 102;
+			cursor: pointer;
+			gap: 15px;
+			overflow: hidden;
+			flex-wrap: wrap;
+			transition: .2s linear;
+		}
+
+		.whatsapp img{
+			z-index: 102;
+			width: 60px;
+			height: 60px;
+			object-fit: cover;
+			transition: .2s linear;
+		}
+
+		.whatsapp:hover{
+			transform: scale(1.1);
+		}
